@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg8"
+    tools:context=".GuidePage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/btnG1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/tabbar00"
+        android:layout_marginHorizontal="20dp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:text="@string/gt1"
+        android:gravity="center"
+        android:shadowRadius="5"
+        android:shadowColor="#0145FF"/>
+
+        <TextView
+            android:id="@+id/btnG2"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/tabbar00"
+            android:layout_marginHorizontal="20dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:text="@string/gt2"
+            android:gravity="center"
+            android:shadowRadius="5"
+            android:shadowColor="#0145FF"/>
+
+
+        <TextView
+            android:id="@+id/btnG3"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/tabbar00"
+            android:layout_marginHorizontal="20dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:text="@string/gt3"
+            android:gravity="center"
+            android:shadowRadius="5"
+            android:shadowColor="#0145FF"/>
+
+
+        <TextView
+            android:id="@+id/btnG4"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/tabbar00"
+            android:layout_marginHorizontal="20dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:text="@string/gt4"
+            android:gravity="center"
+            android:shadowRadius="5"
+            android:shadowColor="#0145FF"/>
+
+
+        <TextView
+            android:id="@+id/btnG5"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/tabbar00"
+            android:layout_marginHorizontal="20dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:text="@string/gt5"
+            android:gravity="center"
+            android:shadowRadius="5"
+            android:shadowColor="#0145FF"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:background="@drawable/navbar8"
+            android:layout_margin="20dp"/>
+
+
+
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

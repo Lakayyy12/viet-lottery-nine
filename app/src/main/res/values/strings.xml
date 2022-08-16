@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Xổ số Đắk Nông</string>
+    <string name="splash_screen">splash_screen</string>
+
+    <string name="gt1">Chọn một cuộc rút thăm để tham gia</string>
+<string name="gt2">Chọn số của bạn</string>
+<string name="gt3">Mua vé</string>
+<string name="gt4">Kiểm tra số của bạn</string>
+    <string name="gt5">Hãy yêu cầu phần thưởng của bạn</string>
+
+    <string name="gt11">Nếu bạn không biết bắt đầu từ đâu, việc lựa chọn trò chơi chính xác từ hàng nghìn giải xổ số trên khắp thế giới có thể là điều quá sức, nhưng sau khi bạn nắm được những kiến thức cơ bản, bạn sẽ có đủ tự tin để chọn trò chơi phù hợp cho mình.</string>
+<string name="gt22">Sử dụng các tùy chọn nhanh hoặc chọn dễ cho các số được chọn ngẫu nhiên là cách đơn giản nhất để chọn số lotto của bạn. Bạn nên kiểm tra số liệu thống kê nếu bạn có con số may mắn yêu thích.</string>
+<string name="gt33">Mặc dù tùy chọn này vẫn có sẵn, những ngày mua vé số chỉ trong một cửa hàng đã qua lâu. Phương pháp thuận tiện nhất là mua vé trực tuyến. Nhiều xổ số chính thức bán vé trực tuyến thông qua các trang web hoặc ứng dụng di động, nhưng bạn phải là công dân của quốc gia được đề cập.</string>
+<string name="gt44">Nhiều chương trình rút thăm được phát sóng trên truyền hình; tuy nhiên, việc kiểm tra các con số trên một trang web hoặc một ứng dụng di động có thể thuận tiện hơn. Mỗi xổ số có thời gian quay thưởng riêng và bằng cách chơi trực tuyến từ một múi giờ khác nhau, bạn có thể chơi trong đêm khuya.</string>
+<string name="gt55">Bạn đã kiểm tra lại số của mình và phát hiện ra rằng bạn đã thắng! Xin chúc mừng. Quá trình xác nhận giải thưởng của bạn rất đơn giản.
+Hãy lưu ý rằng mọi xổ số đều có thời hạn thanh toán, thường là từ 30 đến 180 ngày. Các giải thưởng nhỏ hơn có thể được nhận từ người bán hoặc được tự động chuyển cho bạn khi bạn chơi trực tuyến.</string>
+    <string name="close_button" />
+
+    <string name="abt1">Kết quả của xổ số Việt Nam được quyết định bởi kết quả quay số của công ty xổ số. Tổng công ty "Hà Nội" có 27 chuỗi số, trong khi các công ty khác chỉ có 18. Bạn phải ghi các chuỗi số và loại cược khi đặt cược vào một tờ vé số. Bạn giành được giải thưởng liên quan nếu bạn đặt cược vào chuỗi số thích hợp ở đúng vị trí.</string>
+<string name="abt2"></string>
+    <string name="back_button">back_button</string>
+
+<string name="m1">Trò chơi xổ số</string>
+    <string name="m2">Trò chơi xổ số các chữ số</string>
+    <string name="m3">Trò chơi rút thăm nhanh</string>
+
+<string name="m11">Trò chơi xổ số là trò chơi phổ biến nhất trong Xổ số Việt Nam, chiếm tới 40% tổng thu nhập từ xổ số. Vì nó tương đối đơn giản để chơi, nhiều người dân địa phương và thậm chí cả người nước ngoài tham gia trò chơi xổ số. Người chơi chọn số của họ và tiền thưởng được xác định bởi số lượng trùng khớp. Nếu không có ai trúng giải độc đắc, nó sẽ được chuyển sang kỳ quay thưởng tiếp theo, có khả năng tăng giải thưởng lên hàng tỷ đô la!</string>
+<string name="m22">Đây là một loại hình xổ số hiện đại hơn khá phổ biến trên toàn thế giới. Con số này đóng góp khoảng 7% tổng thu nhập từ xổ số của Việt Nam. Người chơi chọn các số từ 0 đến 9 để tạo ra kết hợp chiến thắng trong loại hình xổ số này.</string>
+<string name="m33">Mặc dù cơ cấu giải thưởng khác nhau, trò chơi rút thăm nhanh rất đơn giản để chơi. Người chơi chỉ cần chọn những con số yêu thích của họ và số tiền họ muốn đặt cược. Họ phải đặt cược trước khi trận hòa bắt đầu. Bởi vì việc rút thăm có thể diễn ra trong vài phút, không có gì lạ khi nhìn thấy những người chơi xổ số xếp hàng dài trong các quầy xổ số.</string>
+
+
+    <string name="fab">Xổ số là một hình thức chơi trò chơi trong đó các con số được chọn ngẫu nhiên để lấy giải thưởng. Một số quốc gia cấm xổ số, trong khi những quốc gia khác ủng hộ họ đủ để tổ chức xổ số quốc gia hoặc tiểu bang. Trò chơi xổ số thường do chính phủ quy định. Yêu cầu phổ biến nhất là người bán vé số phải được cấp phép và không được bán cho trẻ vị thành niên. Điều này vẫn xảy ra cho đến những năm 1960, khi các sòng bạc và xổ số xuất hiện trở lại trên khắp thế giới như một cách để các chính phủ thu nhập mà không cần tăng thuế.</string>
+    <string name="fab_title">Xổ số là gì?</string>
+</resources>
